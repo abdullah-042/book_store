@@ -2,6 +2,10 @@
 
 ## Overview
 The book store database is designed for a small business to manage information related to books, authors, customers, and orders within a book store. It provides a structured way to store and retrieve data about books, their authors, customers, and transactions.
+
+## ERD
+![alt text](https://github.com/abdullah-042/book_store/blob/main/book_store_erd.jpg?raw=true)
+
 ## Usage
 - **Queries:** Users can perform various queries to retrieve information such as top-selling books, customers with the most orders, authors with the most books, and more.
 - **Updating Database:** To update the database, users can perform `INSERT`, `UPDATE`, or `DELETE` operations on the respective tables (`Books`, `Authors`, `Customers`, `Orders`). Ensure data integrity and consistency while updating the database.
