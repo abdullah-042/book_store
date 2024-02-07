@@ -45,3 +45,6 @@ insert into orders (order_id, customer_id, order_date, total_amount) values
     (8, 8, '2023-02-02', 47.98),
     (9, 9, '2023-02-05', 59.97),
     (10, 10, '2023-02-08', 95.96);
+	
+insert into customers (customer_id, first_name, last_name, email, phone, address) values
+    (11, 'Jaden', 'Smith', 'jsmith@example.com', '678-474-9392', '476 Dixon St, small town, USA');
