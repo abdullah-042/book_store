@@ -1,7 +1,7 @@
 # Bookstore Database
 
 ## Overview
-The book store database is designed for a small business to manage information related to books, authors, customers, and orders within a book store. It provides a structured way to store and retrieve data about books, their authors, customers, and transactions.
+The bookstore database is designed for a small business to manage information related to books, authors, customers, and orders within a bookstore. It provides a structured way to store and retrieve data about books, their authors, customers, and transactions.
 
 ## ERD
 ![alt text](https://github.com/abdullah-042/book_store/blob/main/book_store_erd.jpg?raw=true)
