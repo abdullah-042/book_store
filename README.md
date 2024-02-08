@@ -1,4 +1,4 @@
-# Book Store Database
+# Bookstore Database
 
 ## Overview
 The book store database is designed for a small business to manage information related to books, authors, customers, and orders within a book store. It provides a structured way to store and retrieve data about books, their authors, customers, and transactions.
